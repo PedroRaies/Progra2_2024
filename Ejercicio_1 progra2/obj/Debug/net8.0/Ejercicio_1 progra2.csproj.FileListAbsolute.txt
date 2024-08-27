@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\bin\Debug\net8.0\Ejercicio_1 progra2.exe
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\bin\Debug\net8.0\Ejercicio_1 progra2.deps.json
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\bin\Debug\net8.0\Ejercicio_1 progra2.runtimeconfig.json
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\bin\Debug\net8.0\Ejercicio_1 progra2.dll
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\bin\Debug\net8.0\Ejercicio_1 progra2.pdb
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\Ejercicio_1 progra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\Ejercicio_1 progra2.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\Ejercicio_1 progra2.AssemblyInfo.cs
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\Ejercicio_1 progra2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\Ejercicio_1 progra2.dll
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\refint\Ejercicio_1 progra2.dll
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\Ejercicio_1 progra2.pdb
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\Ejercicio_1 progra2.genruntimeconfig.cache
+C:\Users\pedro\Desktop\asd\Facultad\Materias\Plan 2024\Progra 2\Proyectos Visual\Ejercicio_1 progra2\obj\Debug\net8.0\ref\Ejercicio_1 progra2.dll
